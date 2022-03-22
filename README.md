@@ -1,7 +1,7 @@
 This test is created using Selenium and Cucumber. It is a maven based application and requires maven to run the test from command line.
 
 
-There are 2 ways to run the test:
+There are 2 ways to run the test scenario:
 
 Option 1:
 Using IDE (e.g Eclipse)
